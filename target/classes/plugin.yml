@@ -1,0 +1,9 @@
+name: Hockey
+version: '1.0'
+main: pt.bonnie20402.hockey.Hockey
+api-version: '1.19'
+commands:
+  puck:
+    description: 'spawn a god damn puck'
+
+
