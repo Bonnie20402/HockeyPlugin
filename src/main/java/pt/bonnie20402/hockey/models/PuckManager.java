@@ -1,7 +1,7 @@
 package pt.bonnie20402.hockey.models;
+
 import org.bukkit.entity.Endermite;
 import org.bukkit.plugin.Plugin;
-import org.bukkit.util.Vector;
 
 import java.util.List;
 import java.util.Objects;

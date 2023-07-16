@@ -6,6 +6,7 @@ import pt.bonnie20402.hockey.listeners.EntityDamageListener;
 import pt.bonnie20402.hockey.listeners.PuckHitListener;
 import pt.bonnie20402.hockey.models.PuckCommand;
 import pt.bonnie20402.hockey.models.PuckManager;
+
 import java.util.LinkedList;
 
 public final class Hockey extends JavaPlugin {
